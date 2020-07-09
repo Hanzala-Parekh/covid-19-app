@@ -13,13 +13,13 @@ class App extends React.Component {
         const fetchedData = await fetchData();
 
 
-        this.setState({ data: fetchedData });
+        this.setState({ data: fetchedData })
         
         
     }
 
     render() {
-        const { data } = this.setState; 
+        const { data } = this.state; 
         return(
             <div className={ style.container }>
                 <Cards data={data} />
