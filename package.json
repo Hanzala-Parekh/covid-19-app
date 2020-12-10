@@ -1,5 +1,5 @@
 {
-  "name": "covid-19-app",
+  "name": "npm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,5 +37,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanzala-Parekh/covid-19-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanzala-Parekh/covid-19-app/issues"
+  },
+  "homepage": "https://github.com/Hanzala-Parekh/covid-19-app#readme"
 }
