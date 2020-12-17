@@ -49,5 +49,6 @@
   "bugs": {
     "url": "https://github.com/Hanzala-Parekh/covid-19-app/issues"
   },
-  "homepage": "https://github.com/Hanzala-Parekh/covid-19-app#readme"
+  "homepage": "https://github.com/Hanzala-Parekh/covid-19-app#readme",
+  "devDependencies": {}
 }
