@@ -38,7 +38,7 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./build corona-tracker-app-2020.surge.sh --token ${{secrets.SURGE_TOKEN}}
+      run: surge ./build corona-tracker-app-19-hanzala.surge.sh --token ${{secrets.SURGE_TOKEN}}
         echo Add other actions to build,
         echo test, and deploy your project.
         echo test, and deploy your project.
